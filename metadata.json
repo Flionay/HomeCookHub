@@ -1,0 +1,5 @@
+{
+  "name": "Family Bistro AI",
+  "description": "A smart home meal planning system that manages inventory, tracks family recipes, and uses AI to generate menus based on available ingredients and preferences.",
+  "requestFramePermissions": []
+}
